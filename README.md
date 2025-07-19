@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Richkid1996
-- 👀 I’m interested in data analysis and coding
-- 🌱 I’m currently learning Python, SQL, and machine learning
+- 👀 I’m interested in Computer Science and Cybersecurity 
+- 🌱 I’m currently learning Python, SQL, and machine learning while also obtaining my Computer Science degree from the University of Louisiana, Lafayette
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
